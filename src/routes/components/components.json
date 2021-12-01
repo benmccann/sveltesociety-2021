@@ -2303,6 +2303,15 @@
 		"tags": ["integrations"]
 	},
 	{
+		"title": "svelte-intl-precompile",
+		"url": "https://github.com/cibernox/svelte-intl-precompile",
+		"description": "I18n library for Svelte.js that analyzes your keys at build time for max performance and minimal footprint",
+		"npm": "svelte-intl-precompile",
+		"addedOn": "2021-11-30",
+		"tags": ["internationalization"],
+		"stars": 146
+	},
+	{
 		"title": "svelte-adapter-appengine",
 		"url": "https://github.com/halfdanj/svelte-adapter-appengine",
 		"description": "SvelteKit adapter for Google Cloud App Engine",
